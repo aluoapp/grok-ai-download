@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://chrome.google.com/webstore/detail/oenicbdlchhhpkbijcmkkpnpmmjhlgkf">
+  <a href="https://chrome.google.com/webstore/detail/galloooddjgocojmhlgfhnekfmfdphge">
     <img src="https://img.shields.io/chrome-web-store/v/oenicbdlchhhpkbijcmkkpnpmmjhlgkf" alt="Chrome Web Store Version">
   </a>
-  <a href="https://chrome.google.com/webstore/detail/oenicbdlchhhpkbijcmkkpnpmmjhlgkf">
+  <a href="https://chrome.google.com/webstore/detail/galloooddjgocojmhlgfhnekfmfdphge">
     <img src="https://img.shields.io/chrome-web-store/users/oenicbdlchhhpkbijcmkkpnpmmjhlgkf" alt="Chrome Web Store Users">
   </a>
   <a href="https://github.com/yourusername/grok-downloader/blob/main/LICENSE">
@@ -213,11 +213,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Make Grok Downloader your AI conversation management assistant for effortless knowledge preservation!
 
 <p align="center">
-  <img src="assets/download-1.png" alt="Grok Downloader" />
+  <img src="download-1.png" alt="Grok Downloader" />
 </p>
 <p align="center">
-  <img src="assets/download-2.png" alt="Grok Downloader" />
+  <img src="download-2.png" alt="Grok Downloader" />
 </p>
 <p align="center">
-  <img src="assets/download-3.png" alt="Grok Downloader" />
+  <img src="download-3.png" alt="Grok Downloader" />
 </p>
