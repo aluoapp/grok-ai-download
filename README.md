@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://chrome.google.com/webstore/detail/oenicbdlchhhpkbijcmkkpnpmmjhlgkf">
-    <img src="https://img.shields.io/chrome-web-store/v/oenicbdlchhhpkbijcmkkpnpmmjhlgkf" alt="Chrome Web Store Version">
+  <a href="https://chrome.google.com/webstore/detail/galloooddjgocojmhlgfhnekfmfdphge">
+    <img src="https://img.shields.io/chrome-web-store/v/galloooddjgocojmhlgfhnekfmfdphge" alt="Chrome Web Store Version">
   </a>
-  <a href="https://chrome.google.com/webstore/detail/oenicbdlchhhpkbijcmkkpnpmmjhlgkf">
-    <img src="https://img.shields.io/chrome-web-store/users/oenicbdlchhhpkbijcmkkpnpmmjhlgkf" alt="Chrome Web Store Users">
+  <a href="https://chrome.google.com/webstore/detail/galloooddjgocojmhlgfhnekfmfdphge">
+    <img src="https://img.shields.io/chrome-web-store/users/galloooddjgocojmhlgfhnekfmfdphge" alt="Chrome Web Store Users">
   </a>
   <a href="https://github.com/yourusername/grok-downloader/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/aluoapp/grok-downloader" alt="License">
